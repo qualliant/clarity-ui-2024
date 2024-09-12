@@ -1,0 +1,9 @@
+@import url('./main-layout.css');
+@import url('./views/login-view.css');
+@import url('./views/outage-map-view-view.css');
+@import url('./views/dashboard-view.css');    html {
+      --lumo-primary-color: hsl(214, 91%, 51%);
+      --lumo-primary-color-50pct: hsla(214, 91%, 51%, 0.5);
+      --lumo-primary-color-10pct: hsla(214, 91%, 51%, 0.1);
+
+    }
